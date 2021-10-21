@@ -25,4 +25,4 @@ Save
 
 5. Run it
 
-```python3 rename.py
+```python3 rename.py```
